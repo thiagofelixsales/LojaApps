@@ -10,6 +10,6 @@ Projeto acadêmico focado em CSS Grid.
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://i.imgur.com/VZol7Tu.png#vitrinedev))
+![](https://i.imgur.com/VZol7Tu.png#vitrinedev)
 
 
